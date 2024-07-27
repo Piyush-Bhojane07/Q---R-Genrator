@@ -1,1 +1,1 @@
-# Q---R-Genrator
+# QR-Code-Reader
